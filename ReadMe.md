@@ -1,7 +1,7 @@
 🏗 2. Recommended File Structure
 
 A professional structure would look like this:
-
+``` bash
 cinema-booking-app/
 │
 ├── src/
@@ -50,6 +50,7 @@ cinema-booking-app/
 ├── lib/
 │   └── (JavaFX + MySQL Connector)
 └── README.md
+```
 🧩 3. Database Tables
 
 You’ll need these tables (MySQL example):
